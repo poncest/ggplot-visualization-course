@@ -2,7 +2,7 @@
 
 - Platform: EdX
 - HarvardX PH125.2x
-- Link: https://learning.edx.org/course/course-v1:HarvardX+PH125.2x+2T2021/home
+- Link: https://www.edx.org/course/data-science-visualization
 
 ------
 
@@ -12,6 +12,4 @@ There is a free textbook available for this course series. You can get a PDF ve
 * PDF version: https://leanpub.com/datasciencebook
 * HTML version: https://rafalab.github.io/dsbook/
 * Repository: https://github.com/rafalab/dsbook 
-
-
 
